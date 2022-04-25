@@ -1,4 +1,4 @@
 # UVAJudge
 UVA Judge Problem Archive
 
-Solves: 77
+Solves: 85
